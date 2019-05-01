@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+}
+
+section {
+  background-color: #eee;
+}
+
+article {
+  background-color: #fff;
+}
+
+footer {
+  border: solid 1px;
+}
+
+a {
+  color: green;
+}
+
+section, article, footer {
+  padding: 10px;
+  border-radius: 16px;
+}
+
+nav {
+  margin: 10px;
+}
+nav > a {
+  margin: 10px;
+  color: gray;
+  text-decoration: none;
+}
+
+div > p {
+  color: red;
+}
+
+article {
+  margin-top: 10px;
+}
